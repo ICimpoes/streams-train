@@ -1,0 +1,1 @@
+case class Record(line: String, lineNr: Long)
